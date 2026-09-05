@@ -2,22 +2,37 @@
 
 <img width="1600" height="600" alt="dark-pines-under-a-glowing-milky-way-fire-desktop-wallpaper" src="https://github.com/user-attachments/assets/390b3bd0-9fa1-4fae-925d-e2e2cff31898" />
 
+<br>
 
----
+<h1>Hi, I'm Shareef 👋</h1>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mshareef-git&label=Profile%20Views&color=9ECE6A&style=flat" />
-  <img src="https://img.shields.io/github/followers/mshareef-git?label=Followers&style=flat&color=9ECE6A" />
-  <img src="https://img.shields.io/github/stars/mshareef-git?label=Stars&style=flat&color=9ECE6A" />
+<b>AI • Data • Open Source • Building Useful Things</b>
 </p>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=mshareef-git&label=PROFILE+VIEWS&color=000000&labelColor=ffffff&style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/mshareef-git?label=STARS&color=000000&labelColor=ffffff&style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/mshareef-git?label=FOLLOWERS&color=000000&labelColor=ffffff&style=for-the-badge" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
-I'm Like in **AI, Open Source, and building useful things.**
+I like **AI, Open Source, Data, and building useful things.**
 
 - 🔭 Currently working on **[Omavibes](https://github.com/mshareef-git/omavibes)**
 - 🌱 Currently learning **SQL**
@@ -25,48 +40,74 @@ I'm Like in **AI, Open Source, and building useful things.**
 
 ---
 
-### 🔥 Contribution Streak
+## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff4b4b&ring_color=ff4b4b" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshareef-git&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mshareef-git&bg_color=000000&color=ffffff&line=ff4b4b&point=ffffff&area_color=ff4b4b&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ff4b4b&fire=ff4b4b&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+
+</div>
 
 ---
 
 ## 🛠️ Technologies
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,cpp,java,bash,html,css,flask,mysql,postgres,mongodb,pandas,git,linux,figma&perline=7" />
-</p>
+
+</div>
 
 ---
 
+## 🐍 Contribution Graph
 
+<div align="center">
 
-
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/mshareef-git/mshareef-git/output/snake-purple.svg" />
-</p>
+
+</div>
 
 ---
 
 ## 🤝 Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/mohammed-shareef-aa16b438b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-9ECE6A?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" />
 </a>
 
 <a href="mailto:mohammed.shareef.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-9ECE6A?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" />
 </a>
 
-</p>
+</div>
+
+<br>
 
 <div align="center">
 
-### `Build • Learn • Experiment • Repeat`
+### `BUILD • LEARN • EXPERIMENT • REPEAT`
 
 </div>
