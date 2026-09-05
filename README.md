@@ -31,14 +31,6 @@
 
 ---
 
-## About Me
-
-I like **AI, Open Source, Data, and building useful things.**
-
-- Currently working on **[Omavibes](https://github.com/mshareef-git/omavibes)**
--  Currently learning **SQL**
----
-
 
 <div align="center">
 
