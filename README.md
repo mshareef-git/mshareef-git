@@ -44,11 +44,11 @@ I like **AI, Open Source, Data, and building useful things.**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF4B4B" />
+<img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FF4B4B&fire=FF4B4B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshareef-git&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mshareef-git&bg_color=000000&color=FFFFFF&line=FF4B4B&point=FFFFFF&area_color=FF4B4B&area=true&hide_border=true" />
 
 </div>
 
