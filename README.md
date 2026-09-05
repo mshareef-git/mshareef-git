@@ -32,29 +32,6 @@ I'm interested in **Artificial Intelligence, Data Science, Machine Learning, and
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/mshareef-git/omavibes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshareef-git&repo=omavibes&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mshareef-git/Indian-Crime-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshareef-git&repo=Indian-Crime-Analytics&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshareef-git&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 🔥 Contribution Streak
 
@@ -62,23 +39,6 @@ I'm interested in **Artificial Intelligence, Data Science, Machine Learning, and
 <img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mshareef-git&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mshareef-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mshareef-git/mshareef-git/output/snake-purple.svg" />
