@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1600" height="600" alt="dark-pines-under-a-glowing-milky-way-fire-desktop-wallpaper" src="https://github.com/user-attachments/assets/390b3bd0-9fa1-4fae-925d-e2e2cff31898" />
+<img width="1600" height="650" alt="a_black_and_white_picture_of_mountains_and_trees" src="https://github.com/user-attachments/assets/612a300f-818c-4ef1-b7d9-785f44e97f0b" />
+
 
 <br>
 
