@@ -32,8 +32,6 @@
 ---
 
 
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mshareef-git&bg_color=000000&color=ffffff&line=ff4b4b&point=ffffff&area_color=ff4b4b&area=true&hide_border=true" />
 
 
