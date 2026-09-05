@@ -44,9 +44,11 @@ I like **AI, Open Source, Data, and building useful things.**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff4b4b&ring_color=ff4b4b" />
+<img src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF4B4B" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshareef-git&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshareef-git&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" />
 
 </div>
 
