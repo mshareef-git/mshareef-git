@@ -13,13 +13,21 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm interested in **Artificial Intelligence, Data Science, Machine Learning, and building useful things.**
+I'm Like in **AI, Open Source, and building useful things.**
 
 - 🔭 Currently working on **[Omavibes](https://github.com/mshareef-git/omavibes)**
 - 🌱 Currently learning **SQL**
 - 💡 Interested in **AI • Data • Automation • Linux**
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -32,11 +40,7 @@ I'm interested in **Artificial Intelligence, Data Science, Machine Learning, and
 ---
 
 
-### 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <p align="center">
