@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1920" height="1080" alt="wallhaven-qdjg57" src="https://github.com/user-attachments/assets/d17c1c5b-787f-40e3-aa1a-2149a79cc693" />
+<img width="1600" height="400" alt="dark-pines-under-a-glowing-milky-way-fire-desktop-wallpaper" src="https://github.com/user-attachments/assets/390b3bd0-9fa1-4fae-925d-e2e2cff31898" />
 
 
 <p>
