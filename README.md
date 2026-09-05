@@ -1,7 +1,9 @@
 <div align="center">
 
-<img width="1600" height="400" alt="dark-pines-under-a-glowing-milky-way-fire-desktop-wallpaper" src="https://github.com/user-attachments/assets/390b3bd0-9fa1-4fae-925d-e2e2cff31898" />
+<img width="1600" height="600" alt="dark-pines-under-a-glowing-milky-way-fire-desktop-wallpaper" src="https://github.com/user-attachments/assets/390b3bd0-9fa1-4fae-925d-e2e2cff31898" />
 
+
+---
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mshareef-git&label=Profile%20Views&color=9ECE6A&style=flat" />
