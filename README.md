@@ -8,7 +8,7 @@
 <h1>Hi, I'm Shareef 👋</h1>
 
 <p>
-<b>AI • Data • Open Source • Building Useful Things</b>
+<b>AI • Data • Open Source • Building Useful Things for me</b>
 </p>
 
 <br>
