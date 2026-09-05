@@ -1,28 +1,248 @@
-<h1 align="center">Hi 👋, I'm Shareef</h1>
-<h3 align="center">I like AI and DATA</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshareef-git&label=Profile%20views&color=0e75b6&style=flat" alt="mshareef-git" /> </p>
+# 👋 Hi, I'm Shareef
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshareef-git" alt="mshareef-git" /></a> </p>
+### AI • Data • Machine Learning • Building Things
 
-- 🔭 I’m currently working on [Omavibes](https://github.com/mshareef-git/mshareef-git)
-
-- 🌱 I’m currently learning **SQL**
-
-- 📫 How to reach me **mohammed.shareef.work@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-shareef-aa16b438b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-shareef-aa16b438b" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/mshareef-git">
+    <img src="https://img.shields.io/github/followers/mshareef-git?label=Followers&style=flat" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mshareef-git&label=Profile%20Views&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshareef-git&show_icons=true&locale=en&layout=compact" alt="mshareef-git" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&locale=en" alt="mshareef-git" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshareef-git&" alt="mshareef-git" /></p>
+I'm interested in **Artificial Intelligence, Data Science, Machine Learning, and software development**.
 
-![snake](https://raw.githubusercontent.com/mshareef-git/mshareef-git/output/snake-purple.svg)
+I enjoy taking an idea, experimenting with it, and turning it into something that actually works.
+
+Currently exploring:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Science & Analytics
+* 🗄️ SQL & Databases
+* 🧩 Building practical projects
+* 🐧 Linux & developer tooling
+
+### 🔭 Currently working on
+
+**[Omavibes](https://github.com/mshareef-git/Omavibes)**
+
+### 🌱 Currently learning
+
+**SQL**
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://skillicons.dev/icons?i=bash" />
+</a>
+</p>
+
+### Data & AI
+
+<p>
+<a href="https://pandas.pydata.org/">
+<img src="https://skillicons.dev/icons?i=pandas" />
+</a>
+<a href="https://numpy.org/">
+<img src="https://skillicons.dev/icons?i=numpy" />
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" />
+</a>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+</p>
+
+### Development & Tools
+
+<p>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" />
+</a>
+<a href="https://flask.palletsprojects.com/">
+<img src="https://skillicons.dev/icons?i=flask" />
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" />
+</a>
+<a href="https://www.qt.io/">
+<img src="https://skillicons.dev/icons?i=qt" />
+</a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mshareef-git/Omavibes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshareef-git&repo=Omavibes&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mshareef-git/DataScienceEcosystem">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshareef-git&repo=DataScienceEcosystem&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/mshareef-git/my-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshareef-git&repo=my-projects&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mshareef-git/shareef">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mshareef-git&repo=shareef&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/mshareef-git">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/mshareef-git">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshareef-git&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</a>
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mshareef-git&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=mshareef-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</a>
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshareef-git&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mshareef-git&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mshareef-git&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mshareef-git&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mshareef-git&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mshareef-git/mshareef-git/output/snake-purple.svg" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohammed-shareef-aa16b438b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:mohammed.shareef.work@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/mshareef-git">
+<img src="https://img.shields.io/badge/GitHub-mshareef--git-181717?style=flat&logo=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Build. Learn. Experiment. Repeat.
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
