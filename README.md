@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Shareef
+<img width="1920" height="1080" alt="wallhaven-qdjg57" src="https://github.com/user-attachments/assets/d17c1c5b-787f-40e3-aa1a-2149a79cc693" />
 
-### AI • Data • Machine Learning
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mshareef-git&label=Profile%20Views&color=9ECE6A&style=flat" />
