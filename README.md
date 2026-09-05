@@ -34,25 +34,10 @@
 
 I like **AI, Open Source, Data, and building useful things.**
 
-- 🔭 Currently working on **[Omavibes](https://github.com/mshareef-git/omavibes)**
-- 🌱 Currently learning **SQL**
-- 💡 Interested in **AI • Data • Automation • Linux**
-
+- Currently working on **[Omavibes](https://github.com/mshareef-git/omavibes)**
+-  Currently learning **SQL**
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FF4B4B&fire=FF4B4B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mshareef-git&bg_color=000000&color=FFFFFF&line=FF4B4B&point=FFFFFF&area_color=FF4B4B&area=true&hide_border=true" />
-
-</div>
-
-<br>
 
 <div align="center">
 
