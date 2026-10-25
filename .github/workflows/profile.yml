@@ -1,0 +1,38 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gruvbox snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#fe8019&color_dots=#3c3836,#79740e,#98971a,#b8bb26,#fabd2f
+
+      - name: Generate stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          mkdir -p assets/gen
+          cp dist/snake.svg assets/gen/snake.svg
+          python3 scripts/generate.py
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile cards"
+          file_pattern: "assets/gen/*.svg"
