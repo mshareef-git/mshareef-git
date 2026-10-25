@@ -1,5 +1,5 @@
 
-<img width="1920" height="1202" alt="wallhaven-ox5rd7" src="https://github.com/user-attachments/assets/518f200c-0d33-45eb-88bd-df3476c5146b" />
+<img width="1500" height="900" alt="wallhaven-pokg2e" src="https://github.com/user-attachments/assets/1984e40a-7320-4309-b36b-be6541fd06da" />
 
 
 <div align="center">
