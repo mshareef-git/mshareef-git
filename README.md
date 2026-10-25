@@ -1,5 +1,5 @@
 
-<img width="2560" height="1600" alt="gruvbox_minimal_space" src="https://github.com/user-attachments/assets/482e4741-d15d-404a-985a-e3270a5a52fd" />
+<img width="1600" height="800" alt="gruvbox_minimal_space" src="https://github.com/user-attachments/assets/482e4741-d15d-404a-985a-e3270a5a52fd" />
 
 <div align="center">
 
