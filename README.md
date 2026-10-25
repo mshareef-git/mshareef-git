@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/mshareef-git">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FABD2F&center=true&vCenter=true&width=720&height=40&lines=AI+%E2%80%A2+Data+%E2%80%A2+Open+Source;Love+building+things;build+%E2%86%92+learn+%E2%86%92+experiment+%E2%86%92+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FABD2F&center=true&vCenter=true&width=720&height=40&lines=AI+%26+Data+Science+Engineering;Open+Source+%E2%80%A2+Love+building+things;build+%E2%86%92+learn+%E2%86%92+experiment+%E2%86%92+repeat" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -76,12 +76,9 @@
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=504945&border_radius=12&bg_color=282828&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2&ring_color=b8bb26" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshareef-git&layout=compact&langs_count=8&border_color=504945&border_radius=12&bg_color=282828&title_color=fabd2f&text_color=ebdbb2" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=mshareef-git&hide_border=false&border_radius=12&background=282828&stroke=504945&ring=fabd2f&fire=fe8019&currStreakNum=ebdbb2&currStreakLabel=fabd2f&sideNums=ebdbb2&sideLabels=b8bb26&dates=928374" />
+<img src="assets/gen/stats.svg" width="100%" alt="github stats" />
+<br><br>
+<img src="assets/gen/langs.svg" width="100%" alt="top languages" />
 
 </div>
 
@@ -91,15 +88,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mshareef-git&bg_color=282828&color=ebdbb2&title_color=fabd2f&line=fabd2f&point=fe8019&area=true&area_color=fabd2f&hide_border=false&border_color=504945&radius=12&height=320&custom_title=Contribution%20Graph" width="100%" />
-
+<img src="assets/gen/heatmap.svg" width="100%" alt="contribution heatmap" />
 <br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mshareef-git&theme=gruvbox&no-frame=true&margin-w=10&column=7" />
-
+<img src="assets/gen/activity.svg" width="100%" alt="activity last 30 days" />
 <br><br>
-
-<img src="https://raw.githubusercontent.com/mshareef-git/mshareef-git/output/snake.svg" width="100%" alt="contribution snake" />
+<img src="assets/gen/snake.svg" width="100%" alt="contribution snake" />
 
 </div>
 
