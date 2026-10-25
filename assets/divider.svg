@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="16" viewBox="0 0 1000 16">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fb4934"/><stop offset=".25" stop-color="#fe8019"/><stop offset=".5" stop-color="#fabd2f"/><stop offset=".75" stop-color="#b8bb26"/><stop offset="1" stop-color="#83a598"/></linearGradient></defs>
+<line x1="0" y1="8" x2="1000" y2="8" stroke="#3c3836" stroke-width="2"/>
+<line x1="0" y1="8" x2="1000" y2="8" stroke="url(#g)" stroke-width="4" stroke-linecap="round" stroke-dasharray="24 14"><animate attributeName="stroke-dashoffset" from="0" to="-76" dur="2.5s" repeatCount="indefinite"/></line>
+</svg>
