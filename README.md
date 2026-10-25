@@ -1,5 +1,6 @@
 
-<img width="1600" height="800" alt="gruvbox_minimal_space" src="https://github.com/user-attachments/assets/482e4741-d15d-404a-985a-e3270a5a52fd" />
+<img width="1920" height="1202" alt="wallhaven-ox5rd7" src="https://github.com/user-attachments/assets/518f200c-0d33-45eb-88bd-df3476c5146b" />
+
 
 <div align="center">
 
