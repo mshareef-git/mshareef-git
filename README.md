@@ -1,84 +1,118 @@
 <div align="center">
 
-<img width="1600" height="650" alt="a_black_and_white_picture_of_mountains_and_trees" src="https://github.com/user-attachments/assets/612a300f-818c-4ef1-b7d9-785f44e97f0b" />
-
-
-<br>
-
-<h1>Hi, I'm Shareef 👋</h1>
-
-<p>
-<b>AI • Data • Open Source • Love building  Things</b>
-</p>
+<img src="assets/banner.svg" alt="Shareef terminal banner" width="100%" />
 
 <br>
+
+<a href="https://github.com/mshareef-git">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FABD2F&center=true&vCenter=true&width=720&height=40&lines=AI+%E2%80%A2+Data+%E2%80%A2+Open+Source;Love+building+things;build+%E2%86%92+learn+%E2%86%92+experiment+%E2%86%92+repeat" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mshareef-git&label=VIEWS&color=fabd2f&labelColor=282828&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/mshareef-git?style=for-the-badge&logo=github&logoColor=ebdbb2&labelColor=282828&color=b8bb26" />
+<img src="https://img.shields.io/github/stars/mshareef-git?style=for-the-badge&logo=github&logoColor=ebdbb2&labelColor=282828&color=fe8019" />
+
+<br><br>
+
+<a href="https://linkedin.com/in/mohammed-shareef-aa16b438b"><img src="https://img.shields.io/badge/LINKEDIN-83a598?style=for-the-badge&logo=linkedin&logoColor=282828" /></a>
+<a href="mailto:mohammed.shareef.work@gmail.com"><img src="https://img.shields.io/badge/EMAIL-fb4934?style=for-the-badge&logo=gmail&logoColor=282828" /></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## `~/stack`
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=mshareef-git&label=PROFILE+VIEWS&color=000000&labelColor=ffffff&style=for-the-badge" />
+<td align="center"><b><code>languages</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-fb4934?style=flat-square&logo=python&logoColor=282828" />
+<img src="https://img.shields.io/badge/C++-fe8019?style=flat-square&logo=cplusplus&logoColor=282828" />
+<img src="https://img.shields.io/badge/Java-fabd2f?style=flat-square&logo=openjdk&logoColor=282828" />
+<img src="https://img.shields.io/badge/Bash-b8bb26?style=flat-square&logo=gnubash&logoColor=282828" />
+<img src="https://img.shields.io/badge/HTML-8ec07c?style=flat-square&logo=html5&logoColor=282828" />
+<img src="https://img.shields.io/badge/CSS-83a598?style=flat-square&logo=css3&logoColor=282828" />
 </td>
-<td align="center">
-<img src="https://img.shields.io/github/stars/mshareef-git?label=STARS&color=000000&labelColor=ffffff&style=for-the-badge" />
+</tr>
+<tr>
+<td align="center"><b><code>data</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-d3869b?style=flat-square&logo=pandas&logoColor=282828" />
+<img src="https://img.shields.io/badge/MySQL-fb4934?style=flat-square&logo=mysql&logoColor=282828" />
+<img src="https://img.shields.io/badge/PostgreSQL-fe8019?style=flat-square&logo=postgresql&logoColor=282828" />
+<img src="https://img.shields.io/badge/MongoDB-b8bb26?style=flat-square&logo=mongodb&logoColor=282828" />
 </td>
-<td align="center">
-<img src="https://img.shields.io/github/followers/mshareef-git?label=FOLLOWERS&color=000000&labelColor=ffffff&style=for-the-badge" />
+</tr>
+<tr>
+<td align="center"><b><code>backend</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/Flask-ebdbb2?style=flat-square&logo=flask&logoColor=282828" />
+</td>
+</tr>
+<tr>
+<td align="center"><b><code>tools</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-fe8019?style=flat-square&logo=git&logoColor=282828" />
+<img src="https://img.shields.io/badge/Linux-fabd2f?style=flat-square&logo=linux&logoColor=282828" />
+<img src="https://img.shields.io/badge/Figma-d3869b?style=flat-square&logo=figma&logoColor=282828" />
 </td>
 </tr>
 </table>
 
+<br>
+
+<img src="assets/focus.svg" width="82%" alt="focus meter" />
+
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## 🔥 Contribution Streak
+## `~/stats`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mshareef-git&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ff4b4b&fire=ff4b4b&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-
-</div>
-
----
-
-## 🛠️ Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,bash,html,css,flask,mysql,postgres,mongodb,pandas,git,linux,figma&perline=7" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mshareef-git/mshareef-git/output/snake-purple.svg" />
-
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mohammed-shareef-aa16b438b">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" />
-</a>
-
-<a href="mailto:mohammed.shareef.work@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" />
-</a>
-
-</div>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=mshareef-git&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=504945&border_radius=12&bg_color=282828&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2&ring_color=b8bb26" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshareef-git&layout=compact&langs_count=8&border_color=504945&border_radius=12&bg_color=282828&title_color=fabd2f&text_color=ebdbb2" />
 
 <br>
 
+<img src="https://streak-stats.demolab.com/?user=mshareef-git&hide_border=false&border_radius=12&background=282828&stroke=504945&ring=fabd2f&fire=fe8019&currStreakNum=ebdbb2&currStreakLabel=fabd2f&sideNums=ebdbb2&sideLabels=b8bb26&dates=928374" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## `~/activity`
+
 <div align="center">
 
-### `BUILD • LEARN • EXPERIMENT • REPEAT`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mshareef-git&bg_color=282828&color=ebdbb2&title_color=fabd2f&line=fabd2f&point=fe8019&area=true&area_color=fabd2f&hide_border=false&border_color=504945&radius=12&height=320&custom_title=Contribution%20Graph" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mshareef-git&theme=gruvbox&no-frame=true&margin-w=10&column=7" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/mshareef-git/mshareef-git/output/snake.svg" width="100%" alt="contribution snake" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+<div align="center">
+
+<br>
+
+<code>BUILD • LEARN • EXPERIMENT • REPEAT</code>
+
+<br><br>
+
+<sub><code>:wq</code></sub>
 
 </div>
